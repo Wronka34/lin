@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 znowu ja lol
+teraz ja ha ha ha
+>>>>>>> develop
